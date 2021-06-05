@@ -5,7 +5,7 @@
 </div>
 
 ### Deep Learning Engineer
-- Deep Learing Engineer in Medical industry - Chest X ray : disease screening
+- Deep Learing Engineer in Medical industry - Chest X ray : Disease screening
 
 ### Interest
 - Domain shift
