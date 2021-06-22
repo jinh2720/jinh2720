@@ -10,7 +10,7 @@
 ### Interest
 - Cross Domain
 - MLOps & Automation
-- Data pipeline
+- XAI
 
 <div align=center>
 
