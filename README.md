@@ -8,7 +8,7 @@
 - Deep learing engineer in medical industry - Chest x-ray : Disease screening
 
 ### Interest
-- Cross Domain
+- Domain Adaptation
 - MLOps & Automation
 - XAI
 
